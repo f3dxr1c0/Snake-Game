@@ -15,7 +15,7 @@ The snake moves with the arrow keys, eats apples.
 - **RIGHT arrow** → go right
 
 The green square is the snake's head.  
-The red circle is the apple: when you touch it, it jumps to a random spot. 🍎
+The red circle is the apple.
 
 The snake **cannot leave** the window: it stops at the edges.
 
