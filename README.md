@@ -3,6 +3,8 @@
 A small Snake game made in Python using the `turtle` library.  
 The snake moves with the arrow keys, eats apples.
 
+![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+
 ---
 
 ## 🎮 How to play
@@ -19,9 +21,13 @@ The snake **cannot leave** the window: it stops at the edges.
 
 ---
 
-## 🛠️ How to run it
+## 📁 Project structure
 
-1. Make sure you have **Python 3** installed.  
-   To check, open the terminal and type:
-   ```bash
-   python --version
+```
+SnakeGame/
+├── main.py           # Main script
+└── README.md         # This file
+```
+
+## ⭐ Show your support
+If you found this project useful, give it a ⭐.
